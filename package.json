@@ -1,0 +1,20 @@
+{
+  "name": "stealthmode",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "author": "Hoang",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6",
+    "node-fetch": "^2.2.0",
+    "nodemon": "^1.18.4",
+    "passport": "^0.4.0"
+  }
+}
